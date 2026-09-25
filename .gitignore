@@ -1,0 +1,17 @@
+# Build and Executables
+*.o
+*.out
+*.exe
+a.out
+*.app
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
